@@ -1,4 +1,4 @@
-#Customize 3D Portal
+# **Customize 3D Portal**
 - Welcome to our web portal that allows you to customize T-shirts by applying logos and full texture images.
 - You can easily choose an image file from your system to create a unique design for your T-shirt.
 - Our portal also features an AI-generated library (powered by OpenAI) that can generate logos and full textures from text to image.
