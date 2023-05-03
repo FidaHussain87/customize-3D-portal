@@ -1,4 +1,6 @@
-# customize-3D-portal
-
-Web portal to customize T-shirt by applying logo and full texture image by choosing image file from system. 
-AI generated (openai) library for generating log/full texture from text to image, currently is not working, becuase the api I used is paid. if someone can clone this project, and inside of server/.env file, if anyone can modify api key with paid key, then the option to create image from text would work perfectly fine also.
+#Customize 3D Portal
+- Welcome to our web portal that allows you to customize T-shirts by applying logos and full texture images.
+- You can easily choose an image file from your system to create a unique design for your T-shirt.
+- Our portal also features an AI-generated library (powered by OpenAI) that can generate logos and full textures from text to image.
+- Please note that currently, the AI library is not working due to the API being paid. However, if you clone this project and modify the API key in the server/.env file with a paid key, the option to create an image from text will work perfectly fine.
+- We hope you enjoy using our portal to create one-of-a-kind T-shirt designs!
